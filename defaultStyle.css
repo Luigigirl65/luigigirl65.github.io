@@ -12,5 +12,20 @@ body {
 #firstbox {
     color: cornflowerblue;
     padding-bottom: 10;
-    
+    border-style: ridge;
+}
+#secondbox {
+    color: rgb(233, 167, 219);
+    padding-bottom: 10;
+    border-style: ridge;
+}
+#thirdbox {
+    color: cornflowerblue;
+    padding-bottom: 10;
+    border-style: ridge;
+}
+#fourthbox {
+    color: rgb(243, 164, 210);
+    padding-bottom: 10;
+    border-style: ridge;
 }
