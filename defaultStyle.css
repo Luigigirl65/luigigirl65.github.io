@@ -2,7 +2,9 @@
     color: rgb(17, 0, 58);
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    body {background-color: rgb(255, 251, 215)};
 }
+
 #heading {
     color: rgb(212, 15, 230);
 }
@@ -13,23 +15,19 @@ body {
     color: cornflowerblue;
     padding-bottom: 10;
     border-style: ridge;
-    {span}A sideways baby{/span}
 }
 #secondbox {
     color: rgb(233, 167, 219);
     padding-bottom: 10;
     border-style: ridge;
-    <span>A sideways baby but sitting</span>
 }
 #thirdbox {
     color: cornflowerblue;
     padding-bottom: 10;
     border-style: ridge;
-    <h5>Another baby</h5>
 }
 #fourthbox {
     color: rgb(243, 164, 210);
     padding-bottom: 10;
     border-style: ridge;
-    <span>Last baby</span>
 }
