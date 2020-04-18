@@ -36,15 +36,15 @@ body {
     border-style: ridge;
 }
 h1 {
-    background-color: rgb(218, 255, 237);
+    background-color: rgb(221, 126, 250);
   }
   
   div {
-    background-color: rgb(173, 230, 221);
+    background-color: rgb(204, 142, 255);
   }
   
   p {
-    background-color: rgb(151, 238, 185);
+    background-color: rgb(241, 159, 252);
   }
   .center {
     display: block;
