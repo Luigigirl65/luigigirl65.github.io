@@ -3,7 +3,12 @@
     font-size: 16px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
+.circleImage {
+    border-radius: 70%;
+    border-color: blue;
+    border-style:solidcolor; 
+    border-width: 7px;
+}
 #heading {
     color: rgb(212, 15, 230);
 }
