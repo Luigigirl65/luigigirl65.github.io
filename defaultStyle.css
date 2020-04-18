@@ -8,8 +8,8 @@
     color: rgb(212, 15, 230);
 }
 body {
-    color: rgb(238, 232, 198);
-}
+    background-color: rgb(255, 216, 158);
+  }
 #firstbox {
     color: cornflowerblue;
     padding-bottom: 10;
