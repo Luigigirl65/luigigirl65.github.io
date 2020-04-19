@@ -9,6 +9,10 @@
     border-style:solidcolor; 
     border-width: 7px;
 }
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
 #heading {
     color: rgb(212, 15, 230);
 }
