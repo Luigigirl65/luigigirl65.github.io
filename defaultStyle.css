@@ -1,3 +1,10 @@
+.navbar {
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: .5rem 1rem;
+}
 .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
