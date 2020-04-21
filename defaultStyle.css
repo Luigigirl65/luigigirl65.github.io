@@ -5,6 +5,9 @@
   justify-content: space-evenly;
   padding: .5rem 1rem;
 }
+.customNavBg {
+  background-color: rgb(63, 41, 73);
+}
 .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
