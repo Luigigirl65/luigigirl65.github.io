@@ -10,7 +10,22 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Future Portfolio Page</title> 
+        <title>Future Portfolio Page</title>
+        <style>
+          {
+              box-sizing: border-box;
+          }
+          .column {
+          float: left;
+          width: 50%;
+          }
+      
+          .row:after {
+          content: "";
+          display: table;
+          clear: both;
+          }
+          </style> 
     </head>
     <style>body {background-color: rgb(255, 251, 215);}</style>
 </head>
@@ -56,6 +71,16 @@
         <li>gitHub: <a href=https://github.com/Luigigirl65/luigigirl65.github.io.git>Luigigirl65</a></li>
         <li>Portfolio: Look below!.</li>
     </ul>
+    <div class="row">
+      <div class="column" style="background-color:#FFB695;">
+          <h2>test1</h2>
+          <p>Data..</p>
+      </div>
+      <div class="column" style="background-color:#96D1CD;">
+          <h2>test2</h2>
+          <p>Data..</p>
+      </div>
+  </div>
     <div class="row justify-content-center projectGallerySection">
     <div class="col-sm-6 col-md-4 col-lg-3">
       <div class="card">
