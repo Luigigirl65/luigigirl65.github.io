@@ -38,6 +38,9 @@ body {
 h1 {
     background-color: rgb(221, 126, 250);
   }
+  h2{
+    background-color: rgb(137, 63, 160);
+  }
   
   div {
     background-color: rgb(204, 142, 255);
