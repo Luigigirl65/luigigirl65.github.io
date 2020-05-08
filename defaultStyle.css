@@ -62,3 +62,6 @@ h1 {
     overflow: hidden;
     background-color: #333;
 }
+.button:hover {
+  background-color: rgb(224, 196, 68);
+}
